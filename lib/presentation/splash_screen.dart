@@ -17,7 +17,7 @@ class SplashScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.end,
             children: [
               Image.asset("assets/images/pattern.png"),
-              Text("Your best choice for e-walletgit "),
+              Text("Your best choice for e-wallet"),
             ],
           ),
 
